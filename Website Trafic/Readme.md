@@ -6,4 +6,4 @@ Forecast Future Traffic: Use time series forecasting techniques to predict futur
 Visualize Insights: Create interactive Tableau dashboards to visualize historical data and forecasting results.
 
 ## [Dashboard On Tableau Puplic](https://public.tableau.com/app/profile/sohila.mohey/viz/WebsiteTrafic/Dashboard)
-![Dshboard]()
+![Dshboard](https://github.com/sohilamohey/TableauProjects/blob/main/Website%20Trafic/Website%20Traffic.png)
