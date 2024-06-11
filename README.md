@@ -7,7 +7,7 @@
 ![Promotion](https://github.com/sohilamohey/TableauProjects/blob/main/Internet%20Sales/5.%20Promotion.png)
 ### 
 # Website Traffic
-! [Dashboard](https://github.com/sohilamohey/TableauProjects/blob/main/Website%20Trafic/Website%20Traffic.png)
+![Dashboard](https://github.com/sohilamohey/TableauProjects/blob/main/Website%20Trafic/Website%20Traffic.png)
 ###
 
 # Netflix
