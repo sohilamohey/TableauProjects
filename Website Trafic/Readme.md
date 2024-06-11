@@ -5,5 +5,5 @@ Analyze Historical Data: Examine past website traffic data to identify patterns 
 Forecast Future Traffic: Use time series forecasting techniques to predict future website sessions, visitors, and downloads.
 Visualize Insights: Create interactive Tableau dashboards to visualize historical data and forecasting results.
 
-## [Dashboard On Tableau Puplic](https://public.tableau.com/app/profile/sohila.mohey/viz/WebsiteTrafic/Dashboard)
-![Dshboard](https://github.com/sohilamohey/TableauProjects/blob/main/Website%20Trafic/Website%20Traffic.png)
+## [Dashboard On Tableau Public](https://public.tableau.com/app/profile/sohila.mohey/viz/WebsiteTrafic/Dashboard)
+![Dashboard](https://github.com/sohilamohey/TableauProjects/blob/main/Website%20Trafic/Website%20Traffic.png)
